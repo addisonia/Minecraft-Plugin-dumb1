@@ -1,0 +1,5 @@
+name: dumb1
+main: com.addisonia.Plugin
+version: 1.0-SNAPSHOT
+api-version: 1.21
+description: funny1
